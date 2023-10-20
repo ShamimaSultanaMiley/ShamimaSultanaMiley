@@ -30,7 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimasultanamiley&" alt="shamimasultanamiley" /></p>
 
-![snake gif](https://github.com/ShamimaSultanaMiley/ShamimaSultanaMiley/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
