@@ -11,6 +11,30 @@
 
 - 📫 How to reach me **shamimasultanamiley605@gmail.com**
 
+<h2 align="left">Skills & Proficiencies</h2>
+📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
+
+📗 Performance Testing Tool: JMeter
+
+📗 API Testing Tool: Postman
+
+📕 Security Testing Tool: Nmap
+
+📕 Programming Language: Java, C,C++, JavaScript, HTML, CSS
+
+📗 Tools & Framework: Jmeter, GitHub
+
+📔 IDE: VS Code, Eclipse, Code Blocks, Google Colab
+
+📓 Database: MySql
+
+📙 Agile Methodology & Project Management: Jira
+
+📒 Operating System: Windows
+
+📚 Concepts: OOP, SDLC, STLC
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shamima-sultana-17a3a420a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamima-sultana-17a3a420a" height="30" width="40" /></a>
