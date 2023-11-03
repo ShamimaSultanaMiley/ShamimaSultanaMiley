@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Automation Testing**
 
-- 👨‍💻 All of my projects are available at [https://shamimasultanamiley.github.io](https://shamimasultanamiley.github.io)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/ShamimaSultanaMiley?tab=repositories)
 
 - 📫 How to reach me **shamimasultanamiley605@gmail.com**
 
